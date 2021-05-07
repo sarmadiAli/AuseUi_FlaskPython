@@ -39,11 +39,14 @@ packages/react-devtools-shell/dist
 packages/react-devtools-scheduling-profiler/dist
 .DS_Store
 .env
+.venv
 .flaskenv
 *.pyc
 *.pyo
 env/
+venv/
 env*
+venv*
 dist/
 build/
 *.egg
